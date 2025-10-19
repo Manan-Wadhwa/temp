@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da1c293c77fa3452ddb4990d0ff96d48, type: 3}
+  m_Name: spell_armor2
+  m_EditorClassIdentifier:
+  id: spell_armor2
+  trigger: 10
+  conditions_trigger: []
+  target: 20
+  conditions_target:
+  - {fileID: 11400000, guid: e8a35e19cc555954b968db97c53ae22c, type: 2}
+  - {fileID: 11400000, guid: 87c108929c9e2914ab7b19b319e54be8, type: 2}
+  filters_target: []
+  effects: []
+  status:
+  - {fileID: 11400000, guid: 5c96a5697dd7fcd41801497b4375291c, type: 2}
+  value: 2
+  duration: 0
+  chain_abilities: []
+  mana_cost: 0
+  exhaust: 0
+  board_fx: {fileID: 0}
+  caster_fx: {fileID: 0}
+  target_fx: {fileID: 0}
+  cast_audio: {fileID: 0}
+  target_audio: {fileID: 0}
+  charge_target: 0
+  title: Armor +2
+  desc: Target gains armor 2. Reducing all damage by 2.

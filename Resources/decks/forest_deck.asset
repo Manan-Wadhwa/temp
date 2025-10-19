@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55407a4ecea8b5527723c38de5a518dd, type: 3}
+  m_Name: forest_deck
+  m_EditorClassIdentifier:
+  id: forest_deck
+  title: Forest Starter
+  hero: {fileID: 11400000, guid: 3cbe5412ecf91a24ca4f69b896b0f68a, type: 2}
+  cards:
+  - {fileID: 11400000, guid: d43ec371a9e04724e8d6617ffbf8b8da, type: 2}
+  - {fileID: 11400000, guid: d43ec371a9e04724e8d6617ffbf8b8da, type: 2}
+  - {fileID: 11400000, guid: ca6f40b6203c0dd4f9f926bacd5b2109, type: 2}
+  - {fileID: 11400000, guid: ca6f40b6203c0dd4f9f926bacd5b2109, type: 2}
+  - {fileID: 11400000, guid: 2c237e94cd7f85c458d2f72643080134, type: 2}
+  - {fileID: 11400000, guid: 2c237e94cd7f85c458d2f72643080134, type: 2}
+  - {fileID: 11400000, guid: 23bfff278d6b7414d92f713b9f1a5aff, type: 2}
+  - {fileID: 11400000, guid: 6c1f444b9aeb176429d3ad5912f713c2, type: 2}
+  - {fileID: 11400000, guid: a742857ef75380041b82c1e0f32998f6, type: 2}
+  - {fileID: 11400000, guid: 3b127501f42d6ae418f71defa414e374, type: 2}
+  - {fileID: 11400000, guid: ff4ca475901dc9141bc91e1a09d28e18, type: 2}
+  - {fileID: 11400000, guid: b4cb4ce0d28b96846ade932293363a85, type: 2}
+  - {fileID: 11400000, guid: 3463f7787bf370a40b4f1b1bf5278ec5, type: 2}
+  - {fileID: 11400000, guid: fa595f6c48ac9204180c8b9afbc41247, type: 2}
+  - {fileID: 11400000, guid: fa595f6c48ac9204180c8b9afbc41247, type: 2}
+  - {fileID: 11400000, guid: aa9774131f5cef643a922eb75efd4f74, type: 2}
+  - {fileID: 11400000, guid: aa9774131f5cef643a922eb75efd4f74, type: 2}
+  - {fileID: 11400000, guid: 899d1f65152c5954b9066df462477574, type: 2}
+  - {fileID: 11400000, guid: 746ad6b3d88bd5746828a3936ff0aab2, type: 2}
+  - {fileID: 11400000, guid: c4778734c8588eb4682850fde54c34bd, type: 2}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57494119bbb21211f5d999162e6a9d36, type: 3}
+  m_Name: standard
+  m_EditorClassIdentifier:
+  id: standard
+  type: 0
+  cards: 5
+  rarities_1st:
+  - rarity: {fileID: 11400000, guid: 642f217621d9eaf47b01f7262ccc3da8, type: 2}
+    probability: 60
+  - rarity: {fileID: 11400000, guid: 654bc746662fa4a42948dea62d1eea66, type: 2}
+    probability: 30
+  - rarity: {fileID: 11400000, guid: e04c89de26cdcfb41bbd09802450d23f, type: 2}
+    probability: 10
+  rarities:
+  - rarity: {fileID: 11400000, guid: 726d90993e366fc48b82c20dc6149f72, type: 2}
+    probability: 80
+  - rarity: {fileID: 11400000, guid: 642f217621d9eaf47b01f7262ccc3da8, type: 2}
+    probability: 12
+  - rarity: {fileID: 11400000, guid: 654bc746662fa4a42948dea62d1eea66, type: 2}
+    probability: 6
+  - rarity: {fileID: 11400000, guid: e04c89de26cdcfb41bbd09802450d23f, type: 2}
+    probability: 2
+  variants:
+  - variant: {fileID: 11400000, guid: be0a08c799e250441b84b12e60364881, type: 2}
+    probability: 96
+  - variant: {fileID: 11400000, guid: e7861f21d14986c4998ab5e871ef9cb3, type: 2}
+    probability: 4
+  title: Standard Pack
+  pack_img: {fileID: 21300000, guid: e720753ddda48d94eb55485846f1aae2, type: 2}
+  cardback_img: {fileID: 21300000, guid: ea419da4a73983f4ca0cd0a3d28f6646, type: 2}
+  desc: Standard pack with 5 cards.
+  sort_order: 0
+  available: 1
+  cost: 100

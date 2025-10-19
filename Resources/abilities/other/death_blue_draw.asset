@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da1c293c77fa3452ddb4990d0ff96d48, type: 3}
+  m_Name: death_blue_draw
+  m_EditorClassIdentifier:
+  id: death_blue_draw
+  trigger: 42
+  conditions_trigger:
+  - {fileID: 11400000, guid: 87c108929c9e2914ab7b19b319e54be8, type: 2}
+  - {fileID: 11400000, guid: 39695a274e8b9a64699431247827e6cf, type: 2}
+  - {fileID: 11400000, guid: 61afbdfce30686642bd128efa4c96aa2, type: 2}
+  target: 4
+  conditions_target: []
+  filters_target: []
+  effects:
+  - {fileID: 11400000, guid: 5a1461e936301774da3afd46f359d509, type: 2}
+  status: []
+  value: 1
+  duration: 0
+  chain_abilities: []
+  mana_cost: 0
+  exhaust: 0
+  board_fx: {fileID: 0}
+  caster_fx: {fileID: 0}
+  target_fx: {fileID: 0}
+  cast_audio: {fileID: 0}
+  target_audio: {fileID: 0}
+  charge_target: 0
+  title: Draw
+  desc: When a blue creature you own dies, draw a card.

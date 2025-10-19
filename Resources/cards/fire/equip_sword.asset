@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 671c73ff638386bf40fa18e5996f9f2f, type: 3}
+  m_Name: equip_sword
+  m_EditorClassIdentifier:
+  id: equip_sword
+  title: Fire Sword
+  art_full: {fileID: 21300000, guid: dbf2aceb33b13cc439280a45457dc6df, type: 2}
+  art_board: {fileID: 21300000, guid: 83a1577c31b0cc0468239dcfe369c9a4, type: 2}
+  type: 50
+  team: {fileID: 11400000, guid: 614953e0b38cbd345a717a2c0bf58483, type: 2}
+  rarity: {fileID: 11400000, guid: 642f217621d9eaf47b01f7262ccc3da8, type: 2}
+  mana: 2
+  attack: 0
+  hp: 2
+  traits: []
+  stats: []
+  abilities:
+  - {fileID: 11400000, guid: 0d9bf8f26a376164db31098e1b89abf6, type: 2}
+  - {fileID: 11400000, guid: 002336a5ac95b4e42a8744dfca6004e3, type: 2}
+  - {fileID: 11400000, guid: 9b9ae15a6f1a12941a319a16ca98edfc, type: 2}
+  text: "Attack +1.\nBearer receives no damage when attacking."
+  desc:
+  spawn_fx: {fileID: 1318781869432103, guid: a781895b12922ef4ab55b0c3d14c91c3, type: 2}
+  death_fx: {fileID: 0}
+  attack_fx: {fileID: 0}
+  damage_fx: {fileID: 0}
+  idle_fx: {fileID: 0}
+  spawn_audio: {fileID: 0}
+  death_audio: {fileID: 0}
+  attack_audio: {fileID: 0}
+  damage_audio: {fileID: 0}
+  deckbuilding: 1
+  cost: 100
+  packs:
+  - {fileID: 11400000, guid: 0bb59d36f74a6a241b4fef67a4974f5b, type: 2}
+  - {fileID: 11400000, guid: 838ce4dfee8a0414d9016ce075f5913d, type: 2}

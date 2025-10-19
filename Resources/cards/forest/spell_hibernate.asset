@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 671c73ff638386bf40fa18e5996f9f2f, type: 3}
+  m_Name: spell_hibernate
+  m_EditorClassIdentifier:
+  id: spell_hibernate
+  title: Hibernate
+  art_full: {fileID: 21300000, guid: b464bbea5cf8ad1479b6f4f9a9406740, type: 2}
+  art_board: {fileID: 0}
+  type: 20
+  team: {fileID: 11400000, guid: 050998a68baa1334eabfe6f2ddcc2dc5, type: 2}
+  rarity: {fileID: 11400000, guid: e04c89de26cdcfb41bbd09802450d23f, type: 2}
+  mana: 3
+  attack: 0
+  hp: 0
+  traits: []
+  stats: []
+  abilities:
+  - {fileID: 11400000, guid: 36b1ec97cb556644e8f5cc058fb12be6, type: 2}
+  text: Target gains +4/4 and goes to sleep for the next 2 turns.
+  desc:
+  spawn_fx: {fileID: 0}
+  death_fx: {fileID: 0}
+  attack_fx: {fileID: 0}
+  damage_fx: {fileID: 0}
+  idle_fx: {fileID: 0}
+  spawn_audio: {fileID: 0}
+  death_audio: {fileID: 0}
+  attack_audio: {fileID: 0}
+  damage_audio: {fileID: 0}
+  deckbuilding: 1
+  cost: 100
+  packs:
+  - {fileID: 11400000, guid: 0bb59d36f74a6a241b4fef67a4974f5b, type: 2}
+  - {fileID: 11400000, guid: 838ce4dfee8a0414d9016ce075f5913d, type: 2}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55407a4ecea8b5527723c38de5a518dd, type: 3}
+  m_Name: fire_deck
+  m_EditorClassIdentifier:
+  id: fire_deck
+  title: Fire Starter
+  hero: {fileID: 11400000, guid: 4117818c69e89a74cbe4a6d5164880ad, type: 2}
+  cards:
+  - {fileID: 11400000, guid: 5b49ff7bc9c39a340b2a5053351d3216, type: 2}
+  - {fileID: 11400000, guid: 5b49ff7bc9c39a340b2a5053351d3216, type: 2}
+  - {fileID: 11400000, guid: 77f4e2ecae4d0fb4095a218e9e838667, type: 2}
+  - {fileID: 11400000, guid: 77f4e2ecae4d0fb4095a218e9e838667, type: 2}
+  - {fileID: 11400000, guid: a0136f73ec3bbb743a59d5de6376811c, type: 2}
+  - {fileID: 11400000, guid: f0a98c6284e6fdb4d825c6914eaa7a79, type: 2}
+  - {fileID: 11400000, guid: f0a98c6284e6fdb4d825c6914eaa7a79, type: 2}
+  - {fileID: 11400000, guid: 0d4ed2b4dd6508c45b9c573e364a9bf3, type: 2}
+  - {fileID: 11400000, guid: 27889b6e0a703ae4fbfb7fb5f67a7eda, type: 2}
+  - {fileID: 11400000, guid: 1f040a441682ded49a8815f77dc0d738, type: 2}
+  - {fileID: 11400000, guid: 7159962a45d1d554d83b96204e30692d, type: 2}
+  - {fileID: 11400000, guid: c527adf8fc610694587c82dcdc6d6d3f, type: 2}
+  - {fileID: 11400000, guid: 8013ab9e0d28e6044b81a9e2bfd5bf3b, type: 2}
+  - {fileID: 11400000, guid: 46e8fb7047b625d4d9a9d6ac958214f5, type: 2}
+  - {fileID: 11400000, guid: 46e8fb7047b625d4d9a9d6ac958214f5, type: 2}
+  - {fileID: 11400000, guid: c75a556fde2d26545aea717d930550af, type: 2}
+  - {fileID: 11400000, guid: c75a556fde2d26545aea717d930550af, type: 2}
+  - {fileID: 11400000, guid: 556d047fb627fb249ae494ccfdb46558, type: 2}
+  - {fileID: 11400000, guid: f77141ff8bfd1334fb59e71a9962ba28, type: 2}
+  - {fileID: 11400000, guid: 1527eb7577e7f06458a282c82dd7e303, type: 2}
